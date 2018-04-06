@@ -14,7 +14,7 @@ public class Province extends DataSupport {
 
     private int provinceCode;
 
-    public int gitId() {
+    public int getId() {
         return id;
     }
 
